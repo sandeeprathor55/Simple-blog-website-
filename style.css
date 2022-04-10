@@ -1,0 +1,32 @@
+.container-fluid {
+    background-color: black;
+}
+
+.contaner-faq h1 {
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(233, 238, 238);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.accordion {
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.container.footer {
+    border-color: black;
+    border-top-width: 1px;
+
+}
+.container-nav{
+    position: sticky;
+}
+.form{
+    padding-bottom: 65%;
+}
+
+.nav nav-linkactive :hover{
+    background-color: aquamarine;
+}
